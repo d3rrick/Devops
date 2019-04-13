@@ -1,1 +1,3 @@
 Hello, this is a test file for devops class.
+
+Adding more stuffs for the aitomated scripts
